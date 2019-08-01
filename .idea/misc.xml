@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/springboot-cloud-dependencies/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-cloud-eureka/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-cloud-service-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-cloud-web-admin-ribbon/pom.xml" />
       </list>
     </option>
   </component>
