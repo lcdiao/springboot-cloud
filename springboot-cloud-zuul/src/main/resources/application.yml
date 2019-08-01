@@ -1,0 +1,22 @@
+spring:
+  application:
+    name: springboot-cloud-zuul
+  main:
+    allow-bean-definition-overriding: true
+
+server:
+  port: 8769
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+
+zuul:
+  routes:
+    api-a:
+      path: /api/a/**
+      serviceId: springboot-cloud-web-admin-ribbon
+    api-b:
+      path: /api/b/**
+      serviceId: springboot-cloud-web-admin-feign
