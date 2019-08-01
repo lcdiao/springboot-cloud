@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: springboot-cloud-config
+  cloud:
+    config:
+      label: master
+      server:
+        git:
+          uri: http://192.168.116.130/lcdiao/springboot-cloud-config.git
+          search-paths: respo
+          username: 120879566@qq.com
+          password: asd52342
+
+server:
+  port: 8888
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
