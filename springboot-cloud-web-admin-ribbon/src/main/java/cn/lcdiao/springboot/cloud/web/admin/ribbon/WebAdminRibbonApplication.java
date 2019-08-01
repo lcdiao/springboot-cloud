@@ -12,6 +12,8 @@ import org.springframework.cloud.netflix.hystrix.EnableHystrix;
 @SpringBootApplication
 //注册到服务中心
 @EnableDiscoveryClient
+//开启熔断机制
+@EnableHystrix
 public class WebAdminRibbonApplication {
     public static void main(String[] args) {
         SpringApplication.run(WebAdminRibbonApplication.class,args);
