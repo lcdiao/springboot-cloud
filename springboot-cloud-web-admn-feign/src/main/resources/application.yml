@@ -16,3 +16,7 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
 
+#开启feign自带的熔断器
+feign:
+  hystrix:
+    enabled: true
