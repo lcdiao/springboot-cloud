@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/springboot-cloud.iml" filepath="$PROJECT_DIR$/.idea/springboot-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-cloud-dependencies/springboot-cloud-dependencies.iml" filepath="$PROJECT_DIR$/springboot-cloud-dependencies/springboot-cloud-dependencies.iml" />
     </modules>
   </component>
 </project>
