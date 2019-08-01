@@ -13,6 +13,8 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 @EnableDiscoveryClient
 @EnableFeignClients
 @SpringBootApplication
+//开启熔断器仪表盘监控
+@EnableHystrixDashboard
 public class WebAdminFeignApplication {
 
     public static void main(String[] args) {
