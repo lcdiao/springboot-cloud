@@ -7,7 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/springboot-cloud-dependencies/springboot-cloud-dependencies.iml" filepath="$PROJECT_DIR$/springboot-cloud-dependencies/springboot-cloud-dependencies.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-cloud-eureka/springboot-cloud-eureka.iml" filepath="$PROJECT_DIR$/springboot-cloud-eureka/springboot-cloud-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-cloud-service-admin/springboot-cloud-service-admin.iml" filepath="$PROJECT_DIR$/springboot-cloud-service-admin/springboot-cloud-service-admin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springboot-cloud-web-admn-feign/springboot-cloud-web-admin-feign.iml" filepath="$PROJECT_DIR$/springboot-cloud-web-admn-feign/springboot-cloud-web-admin-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-cloud-web-admin-feign/springboot-cloud-web-admin-feign.iml" filepath="$PROJECT_DIR$/springboot-cloud-web-admin-feign/springboot-cloud-web-admin-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-cloud-web-admin-ribbon/springboot-cloud-web-admin-ribbon.iml" filepath="$PROJECT_DIR$/springboot-cloud-web-admin-ribbon/springboot-cloud-web-admin-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-cloud-zuul/springboot-cloud-zuul.iml" filepath="$PROJECT_DIR$/springboot-cloud-zuul/springboot-cloud-zuul.iml" />
     </modules>

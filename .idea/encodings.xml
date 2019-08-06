@@ -5,8 +5,8 @@
     <file url="file://$PROJECT_DIR$/springboot-cloud-dependencies" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-cloud-eureka" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-cloud-service-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-cloud-web-admin-feign" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-cloud-web-admin-ribbon" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springboot-cloud-web-admn-feign" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-cloud-zuul" charset="UTF-8" />
   </component>
 </project>
