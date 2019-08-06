@@ -6,7 +6,7 @@ spring:
       uri: http://localhost:8888
       name: web-admin-feign
       label: master
-      profile: dev
+      profile: prod
 #  application:
 #    name: springboot-cloud-web-admin-feign
 #  thymeleaf:
