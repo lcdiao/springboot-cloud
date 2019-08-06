@@ -1,0 +1,5 @@
+cn\lcdiao\springboot\cloud\web\admin\feign\service\AdminService.class
+cn\lcdiao\springboot\cloud\web\admin\feign\service\hystrix\AdminServiceHystrix.class
+cn\lcdiao\springboot\cloud\web\admin\feign\WebAdminFeignApplication.class
+cn\lcdiao\springboot\cloud\web\admin\feign\controller\AdminController.class
+cn\lcdiao\springboot\cloud\web\admin\feign\config\HystrixDashboardConfiguration.class

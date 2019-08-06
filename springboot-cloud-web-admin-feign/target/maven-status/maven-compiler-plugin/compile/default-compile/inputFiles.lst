@@ -1,0 +1,5 @@
+D:\PrivateGitHub\springboot-cloud\springboot-cloud-web-admin-feign\src\main\java\cn\lcdiao\springboot\cloud\web\admin\feign\controller\AdminController.java
+D:\PrivateGitHub\springboot-cloud\springboot-cloud-web-admin-feign\src\main\java\cn\lcdiao\springboot\cloud\web\admin\feign\WebAdminFeignApplication.java
+D:\PrivateGitHub\springboot-cloud\springboot-cloud-web-admin-feign\src\main\java\cn\lcdiao\springboot\cloud\web\admin\feign\service\hystrix\AdminServiceHystrix.java
+D:\PrivateGitHub\springboot-cloud\springboot-cloud-web-admin-feign\src\main\java\cn\lcdiao\springboot\cloud\web\admin\feign\service\AdminService.java
+D:\PrivateGitHub\springboot-cloud\springboot-cloud-web-admin-feign\src\main\java\cn\lcdiao\springboot\cloud\web\admin\feign\config\HystrixDashboardConfiguration.java
