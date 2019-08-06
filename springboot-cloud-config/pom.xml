@@ -55,6 +55,16 @@
             <artifactId>spring-cloud-starter-zipkin</artifactId>
             <version>2.1.2.RELEASE</version>
         </dependency>
+
+        <dependency>
+            <groupId>org.jolokia</groupId>
+            <artifactId>jolokia-core</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>de.codecentric</groupId>
+            <artifactId>spring-boot-admin-starter-client</artifactId>
+            <version>${spring-boot-admin.version}</version>
+        </dependency>
     </dependencies>
 
     <build>

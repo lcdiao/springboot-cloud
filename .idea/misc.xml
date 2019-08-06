@@ -14,6 +14,7 @@
         <option value="$PROJECT_DIR$/springboot-cloud-zuul/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-cloud-config/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-cloud-zipkin/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-cloud-admin/pom.xml" />
       </list>
     </option>
   </component>

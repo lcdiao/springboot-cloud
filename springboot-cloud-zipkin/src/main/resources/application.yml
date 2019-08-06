@@ -3,6 +3,11 @@ spring:
     name: springboot-cloud-zipkin
   main:
     allow-bean-definition-overriding: true
+  #服务监控
+  boot:
+    admin:
+      client:
+        url: http://localhost:8084
 #zipkin 端口
 server:
   port: 9411
